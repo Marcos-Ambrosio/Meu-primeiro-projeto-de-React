@@ -1,7 +1,9 @@
+
 {
   "name": "meu-projeto-react-vite",
   "private": true,
   "version": "0.0.0",
+  "homepage": "github-page/",
   "type": "module",
   "scripts": {
     "dev": "vite",
